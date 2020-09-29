@@ -7,7 +7,7 @@ body{
     background-color: black;
 }
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(B4R.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(b4R.jpg);
     height: 750px;
     background-size: cover;
     background-position:center;
@@ -136,7 +136,7 @@ font-size: 30px;
     font-family:cursive;
     position: absolute;
     left: 30%;
-    top:225%;
+    top:235%;
    
 }
 .bto{
@@ -156,7 +156,7 @@ font-size: 30px;
     font-family:cursive;
     position: absolute;
     left: 45%;
-    top: 225%;
+    top: 235%;
    
 }
 .btn1{
@@ -176,7 +176,7 @@ font-size: 30px;
     font-family:cursive;
     position: absolute;
     left: 30%;
-    top:215%;
+    top:225%;
    
 }
 .bot{
@@ -197,7 +197,7 @@ font-size: 30px;
     font-family:cursive;
     position: absolute;
     left: 45%;
-    top: 215%;
+    top: 225%;
    
 }
 .butt{
