@@ -7,7 +7,7 @@ body{
     background-color: black;
 }
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(b4R.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(b4r.jpg);
     height: 750px;
     background-size: cover;
     background-position:center;
